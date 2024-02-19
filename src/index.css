@@ -57,6 +57,9 @@ nav a:active {
 #home {
   background-color: cornsilk;
 }
+#home h1{
+  color: firebrick;
+}
 
 #about img {
   max-height: 50%;
